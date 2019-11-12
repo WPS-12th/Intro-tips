@@ -3,6 +3,7 @@
 **웹 프로그래밍 스쿨 | 이한영 강사 교육과정**  
 
 - [강사 블로그](https://lhy.kr/)
+- [강의 영상](https://www.youtube.com/playlist?list=PLz_KHa75m7JUtFjfJf9hORIhtoHOTtkJl)
 
 >  아래 예정 소요일수 및 과정은 강의 진행에 따라 달라질 수 있습니다
 
